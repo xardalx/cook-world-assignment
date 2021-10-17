@@ -1,0 +1,12 @@
+<wpml-config>
+    <admin-texts>
+	<key name="theme_mods_nutmeg">
+		<key name="theme-nutmeg-string-recent-posts" />
+		<key name="theme-nutmeg-string-bloglink" />
+		<key name="theme-nutmeg-string-open-menu" />
+		<key name="theme-nutmeg-string-close-menu" />
+		<key name="theme-nutmeg-string-readmore" />
+		<key name="theme-nutmeg-footer-text" />
+	</key>
+    </admin-texts>
+</wpml-config>

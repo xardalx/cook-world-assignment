@@ -1,0 +1,1462 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Nutmeg\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-06-10 04:08+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.2; wp-5.7.2\n"
+"X-Domain: nutmeg"
+
+#. %s theme name
+#: ilovewp-admin/admin-notices/ilovewp-notice-welcome.php:65
+#, php-format
+msgid "%s Video Guide"
+msgstr ""
+
+#: ilovewp-admin/widgets/posts-section.php:150
+msgid "- show from all categories -"
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:206
+msgid "0"
+msgstr ""
+
+#: ilovewp-admin/customizer/sections/general.php:47
+msgid "1 Column"
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:212
+msgid "10"
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:217
+msgid "11"
+msgstr ""
+
+#. 1: date, 2: time
+#: functions.php:450
+#, php-format
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: ilovewp-admin/customizer/sections/general.php:48
+msgid "2 Columns"
+msgstr ""
+
+#: ilovewp-admin/customizer/sections/general.php:49
+msgid "3 Columns"
+msgstr ""
+
+#: ilovewp-admin/customizer/sections/general.php:50
+msgid "4 Columns"
+msgstr ""
+
+#: 404.php:11
+msgid "404: Page not found"
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:216
+msgid "5"
+msgstr ""
+
+#: ilovewp-admin/customizer/sections/general.php:51
+msgid "5 Columns"
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:207
+#: ilovewp-admin/ilovewp-theme-settings.php:211
+msgid "6"
+msgstr ""
+
+#. Theme name and version
+#: ilovewp-admin/ilovewp-theme-settings.php:78
+#, php-format
+msgid ""
+"<span class=\"theme-name\">%1$s Theme</span> <span class=\"theme-version\">"
+"(version %2$s)</span>"
+msgstr ""
+
+#: ilovewp-admin/components/class-nutmeg-blocks-manager.php:108
+#: ilovewp-admin/components/class-nutmeg-blocks-manager.php:117
+#: ilovewp-admin/components/class-nutmeg-blocks-manager.php:126
+#: ilovewp-admin/components/class-nutmeg-blocks-manager.php:135
+#: ilovewp-admin/components/class-nutmeg-blocks-manager.php:144
+#: ilovewp-admin/components/class-nutmeg-blocks-manager.php:153
+#: ilovewp-admin/components/class-nutmeg-blocks-manager.php:162
+#: ilovewp-admin/components/class-nutmeg-blocks-manager.php:171
+msgid "A large text paragraph followed by buttons."
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:195
+msgid ""
+"Ability to select the sidebar location individually for each page and post."
+msgstr ""
+
+#: ilovewp-admin/admin-notices/ilovewp-notices.php:69
+msgid "Action failed. Please refresh the page and retry."
+msgstr ""
+
+#: ilovewp-admin/admin-notices/ilovewp-notice-review.php:74
+msgid "Add a Rating for Nutmeg"
+msgstr ""
+
+#: ilovewp-admin/components/class-nutmeg-blocks-manager.php:26
+#: ilovewp-admin/components/class-nutmeg-blocks-manager.php:78
+msgid "Align: Center"
+msgstr ""
+
+#: ilovewp-admin/components/class-nutmeg-blocks-manager.php:30
+#: ilovewp-admin/components/class-nutmeg-blocks-manager.php:82
+msgid "Align: Right"
+msgstr ""
+
+#: 404.php:12
+msgid ""
+"Apologies, but the requested page cannot be found. Perhaps searching will "
+"help find a related page."
+msgstr ""
+
+#: ilovewp-admin/customizer/customizer.php:323
+#: ilovewp-admin/customizer/sections/background.php:14
+msgid "Background Color"
+msgstr ""
+
+#: ilovewp-admin/block-patterns/recipe-info.php:2
+msgctxt "Block pattern demo content"
+msgid "10 minutes"
+msgstr ""
+
+#: ilovewp-admin/block-patterns/recipe-info.php:2
+msgctxt "Block pattern demo content"
+msgid "20 minutes"
+msgstr ""
+
+#: ilovewp-admin/block-patterns/recipe-info.php:2
+msgctxt "Block pattern demo content"
+msgid "4 adults"
+msgstr ""
+
+#: ilovewp-admin/components/class-nutmeg-blocks-manager.php:204
+msgctxt "Block pattern demo content"
+msgid ""
+"At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis "
+"praesentium voluptatum deleniti atque corrupti quos dolores et quas "
+"molestias excepturi sint occaecati cupiditate non provident, similique sunt "
+"in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga."
+msgstr ""
+
+#: ilovewp-admin/block-patterns/recipe-info.php:2
+msgctxt "Block pattern demo content"
+msgid "Cooking Time"
+msgstr ""
+
+#: ilovewp-admin/block-patterns/recipe-info.php:2
+msgctxt "Block pattern demo content"
+msgid "Difficulty"
+msgstr ""
+
+#: ilovewp-admin/components/class-nutmeg-blocks-manager.php:200
+msgctxt "Block pattern demo content"
+msgid ""
+"Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore "
+"eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident."
+msgstr ""
+
+#: ilovewp-admin/block-patterns/recipe-info.php:2
+msgctxt "Block pattern demo content"
+msgid "Easy"
+msgstr ""
+
+#: ilovewp-admin/block-patterns/ingredients-instructions.php:8
+#: ilovewp-admin/block-patterns/ingredients.php:7
+msgctxt "Block pattern demo content"
+msgid "Ingredient 1"
+msgstr ""
+
+#: ilovewp-admin/block-patterns/ingredients-instructions.php:8
+#: ilovewp-admin/block-patterns/ingredients.php:7
+msgctxt "Block pattern demo content"
+msgid "Ingredient 2"
+msgstr ""
+
+#: ilovewp-admin/block-patterns/ingredients-instructions.php:8
+#: ilovewp-admin/block-patterns/ingredients.php:7
+msgctxt "Block pattern demo content"
+msgid "Ingredient 3"
+msgstr ""
+
+#: ilovewp-admin/block-patterns/ingredients-instructions.php:8
+#: ilovewp-admin/block-patterns/ingredients.php:7
+msgctxt "Block pattern demo content"
+msgid "Ingredient 4"
+msgstr ""
+
+#: ilovewp-admin/block-patterns/ingredients-instructions.php:4
+#: ilovewp-admin/block-patterns/ingredients.php:3
+msgctxt "Block pattern demo content"
+msgid "Ingredients"
+msgstr ""
+
+#: ilovewp-admin/block-patterns/ingredients-instructions.php:15
+msgctxt "Block pattern demo content"
+msgid "Instructions"
+msgstr ""
+
+#: ilovewp-admin/block-patterns/opening-message.php:4
+msgctxt "Block pattern demo content"
+msgid "Intro Message Title"
+msgstr ""
+
+#: ilovewp-admin/components/class-nutmeg-blocks-manager.php:199
+msgctxt "Block pattern demo content"
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod "
+"tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
+msgstr ""
+
+#: ilovewp-admin/block-patterns/featured-pages-standard.php:9
+#: ilovewp-admin/block-patterns/featured-pages-standard.php:19
+#: ilovewp-admin/block-patterns/featured-pages-standard.php:29
+msgctxt "Block pattern demo content"
+msgid "Page Title"
+msgstr ""
+
+#: ilovewp-admin/block-patterns/recipe-info.php:2
+msgctxt "Block pattern demo content"
+msgid "Preparation Time"
+msgstr ""
+
+#: ilovewp-admin/block-patterns/cover-with-overlay.php:4
+msgctxt "Block pattern demo content"
+msgid "Section Intro Title"
+msgstr ""
+
+#: ilovewp-admin/components/class-nutmeg-blocks-manager.php:203
+msgctxt "Block pattern demo content"
+msgid ""
+"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium "
+"doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore "
+"veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim "
+"ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia "
+"consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+msgstr ""
+
+#: ilovewp-admin/block-patterns/recipe-info.php:2
+msgctxt "Block pattern demo content"
+msgid "Serves"
+msgstr ""
+
+#: ilovewp-admin/block-patterns/ingredients-instructions.php:19
+msgctxt "Block pattern demo content"
+msgid "Step 1 instructions."
+msgstr ""
+
+#: ilovewp-admin/block-patterns/ingredients-instructions.php:19
+msgctxt "Block pattern demo content"
+msgid "Step 2 instructions."
+msgstr ""
+
+#: ilovewp-admin/block-patterns/ingredients-instructions.php:19
+msgctxt "Block pattern demo content"
+msgid "Step 3 instructions."
+msgstr ""
+
+#: ilovewp-admin/block-patterns/ingredients-instructions.php:19
+msgctxt "Block pattern demo content"
+msgid "Step 4 instructions."
+msgstr ""
+
+#: ilovewp-admin/customizer/sections/general.php:23
+msgid "Card"
+msgstr ""
+
+#: ilovewp-admin/widgets/posts-section.php:148
+msgid "Category of posts"
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:190
+msgid ""
+"Change the font and font size for the main elements on the website directly "
+"from the Customizer."
+msgstr ""
+
+#: ilovewp-admin/admin-notices/ilovewp-notices.php:73
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: ilovewp-admin/customizer/sections/general.php:96
+msgid "Check this if you want to accept and display comments in blog posts."
+msgstr ""
+
+#: ilovewp-admin/customizer/sections/general.php:108
+msgid "Check this if you want to accept and display comments in pages."
+msgstr ""
+
+#: ilovewp-admin/customizer/sections/general.php:223
+msgid "Check this if you want to display a link to the Blog page."
+msgstr ""
+
+#: ilovewp-admin/customizer/sections/general.php:165
+msgid "Check this if you want to display the search icon in the header."
+msgstr ""
+
+#: ilovewp-admin/customizer/sections/general.php:142
+msgid ""
+"Check this if you want to display the secondary menu and/or some text in the "
+"header, above the logo."
+msgstr ""
+
+#: ilovewp-admin/customizer/sections/general.php:84
+msgid ""
+"Check this if you want to have a zoom effect when hovering over post "
+"thumbnails."
+msgstr ""
+
+#: ilovewp-admin/customizer/sections/general.php:255
+msgid "Choose the layout for all archive pages that display posts."
+msgstr ""
+
+#: ilovewp-admin/customizer/sections/general.php:129
+msgid "Choose the layout for the header: logo and widgetized area."
+msgstr ""
+
+#: ilovewp-admin/customizer/sections/general.php:398
+msgid "Choose the location and size of the featured thumbnail."
+msgstr ""
+
+#: ilovewp-admin/customizer/sections/general.php:268
+msgid "Choose the style for all archive pages that display posts."
+msgstr ""
+
+#: ilovewp-admin/customizer/sections/general.php:293
+msgid "Choose the thumbnail size for your posts."
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:102
+msgid "Click the image below to open the video guide in a new browser tab."
+msgstr ""
+
+#: ilovewp-admin/customizer/sections/general.php:545
+msgid "Close menu button label"
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:185
+msgid "Color Customization"
+msgstr ""
+
+#: ilovewp-admin/customizer/sections/general.php:16
+msgid "Columns - 2 columns"
+msgstr ""
+
+#: ilovewp-admin/customizer/sections/general.php:17
+msgid "Columns - 3 columns"
+msgstr ""
+
+#: ilovewp-admin/customizer/sections/general.php:18
+msgid "Columns - 4 columns"
+msgstr ""
+
+#: ilovewp-admin/components/class-nutmeg-blocks-manager.php:54
+msgid "Columns: 2"
+msgstr ""
+
+#: ilovewp-admin/components/class-nutmeg-blocks-manager.php:58
+msgid "Columns: 3"
+msgstr ""
+
+#: comments.php:53 comments.php:74
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:90
+msgid "Comments are closed."
+msgstr ""
+
+#. 1: number of comments, 2: post title
+#: comments.php:37
+#, php-format
+msgctxt "comments title"
+msgid "%1$s Reply to &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s Replies to &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#. %s: post title
+#: comments.php:33
+#, php-format
+msgctxt "comments title"
+msgid "One Reply to &ldquo;%s&rdquo;"
+msgstr ""
+
+#: ilovewp-admin/widgets/posts-section.php:183
+msgid "Compact"
+msgstr ""
+
+#: footer.php:3
+msgid "Copyright &copy; "
+msgstr ""
+
+#: ilovewp-admin/customizer/helpers-defaults.php:75
+#, php-format
+msgid "Copyright &copy; %1$s %2$s. "
+msgstr ""
+
+#: ilovewp-admin/customizer/sections/general.php:514
+msgid "Copyright Text"
+msgstr ""
+
+#: ilovewp-admin/components/class-nutmeg-blocks-manager.php:116
+msgid "Cover with Overlay"
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:210
+msgid "Custom Block Patterns"
+msgstr ""
+
+#. %1$s current user display name.
+#: ilovewp-admin/admin-notices/ilovewp-notice-review.php:62
+#, php-format
+msgid ""
+"Dear %1$s! I hope you are happy with everything that the %2$s has to offer. "
+"%3$sIf you can spare a moment, please consider adding a rating for %4$s on "
+"WordPress.org. %3$sIt helps me continue providing updates and support for "
+"this theme."
+msgstr ""
+
+#. %1$s current user display name.
+#: ilovewp-admin/admin-notices/ilovewp-notice-upgrade.php:64
+#, php-format
+msgid ""
+"Dear %1$s! I hope you are happy with everything that the %2$s has to offer. "
+"%3$sIf you like the free version of Nutmeg Theme, you will love the PLUS "
+"version. %3$s%4$s contains more features and customization options."
+msgstr ""
+
+#: ilovewp-admin/customizer/sections/general.php:70
+msgid "Default Sidebar Position"
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:200
+msgid "Demo Content Importer"
+msgstr ""
+
+#: ilovewp-admin/customizer/sections/general.php:341
+msgid "Display Author"
+msgstr ""
+
+#: ilovewp-admin/customizer/sections/general.php:470
+msgid "Display Author Bio"
+msgstr ""
+
+#: ilovewp-admin/customizer/sections/general.php:482
+msgid "Display Author Social Media Links"
+msgstr ""
+
+#: ilovewp-admin/customizer/sections/general.php:222
+msgid "Display Blog Link"
+msgstr ""
+
+#: ilovewp-admin/customizer/sections/general.php:317
+#: ilovewp-admin/customizer/sections/general.php:422
+msgid "Display Category"
+msgstr ""
+
+#: ilovewp-admin/customizer/sections/general.php:107
+msgid "Display Comments for Pages"
+msgstr ""
+
+#: ilovewp-admin/customizer/sections/general.php:95
+msgid "Display Comments for Posts"
+msgstr ""
+
+#: ilovewp-admin/customizer/sections/general.php:305
+#: ilovewp-admin/customizer/sections/general.php:410
+msgid "Display Date"
+msgstr ""
+
+#: ilovewp-admin/widgets/posts-section.php:212
+msgid "Display date"
+msgstr ""
+
+#: ilovewp-admin/customizer/sections/general.php:353
+msgid "Display Date after Author"
+msgstr ""
+
+#: ilovewp-admin/customizer/sections/general.php:329
+msgid "Display Excerpt"
+msgstr ""
+
+#: ilovewp-admin/customizer/sections/general.php:280
+msgid "Display Featured Image"
+msgstr ""
+
+#: ilovewp-admin/customizer/sections/general.php:446
+msgid "Display Post Navigation"
+msgstr ""
+
+#: ilovewp-admin/customizer/sections/general.php:458
+msgid "Display Post Navigation Thumbnails"
+msgstr ""
+
+#: ilovewp-admin/customizer/sections/general.php:198
+msgid "Display posts only from a single category."
+msgstr ""
+
+#: ilovewp-admin/customizer/sections/general.php:365
+msgid "Display Read More Link"
+msgstr ""
+
+#: ilovewp-admin/customizer/sections/general.php:164
+msgid "Display Search Form in Header"
+msgstr ""
+
+#: ilovewp-admin/customizer/sections/general.php:434
+msgid "Display Tags"
+msgstr ""
+
+#: ilovewp-admin/customizer/sections/general.php:141
+msgid "Display Top Bar in Header"
+msgstr ""
+
+#: ilovewp-admin/widgets/posts-section.php:16
+msgid "Displays a list of posts optionally filtered by category."
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:110
+msgid "Documentation and Support"
+msgstr ""
+
+#: ilovewp-admin/widgets/posts-section.php:195
+msgid "Don't display"
+msgstr ""
+
+#: functions.php:432 functions.php:460
+msgid "Edit"
+msgstr ""
+
+#: ilovewp-admin/customizer/sections/general.php:83
+msgid "Enable Transform Animations"
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:222
+msgid "Extensive"
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:170
+msgid "Feature"
+msgstr ""
+
+#: ilovewp-admin/customizer/sections/general.php:397
+msgid "Featured Image Position"
+msgstr ""
+
+#: functions.php:173
+msgid "Featured Image: Landscape (410x275)"
+msgstr ""
+
+#: functions.php:172
+msgid "Featured Image: Landscape (850x560)"
+msgstr ""
+
+#: functions.php:174
+msgid "Featured Image: Portrait (410x580)"
+msgstr ""
+
+#: functions.php:175
+msgid "Featured Image: Square (410x410)"
+msgstr ""
+
+#: ilovewp-admin/components/class-nutmeg-blocks-manager.php:143
+msgid "Featured Pages - Standard"
+msgstr ""
+
+#: ilovewp-admin/customizer/sections/general.php:41
+msgid "Floated to the left"
+msgstr ""
+
+#: ilovewp-admin/customizer/sections/general.php:42
+msgid "Floated to the right"
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:190
+msgid "Font Customization"
+msgstr ""
+
+#: ilovewp-admin/customizer/sections/general.php:493
+msgid "Footer"
+msgstr ""
+
+#: ilovewp-admin/customizer/sections/color-scheme.php:97
+msgid "Footer Background"
+msgstr ""
+
+#: footer.php:52 functions.php:125
+msgid "Footer Menu"
+msgstr ""
+
+#: ilovewp-admin/sidebars.php:29
+msgid "Footer: Column 1"
+msgstr ""
+
+#: ilovewp-admin/sidebars.php:39
+msgid "Footer: Column 2"
+msgstr ""
+
+#: ilovewp-admin/sidebars.php:49
+msgid "Footer: Column 3"
+msgstr ""
+
+#: ilovewp-admin/sidebars.php:19
+msgid "Footer: Full Width"
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:222
+msgid ""
+"Frequent theme updates will contain new features, block patterns and other "
+"ideas suggested by our customers."
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:187
+#: ilovewp-admin/ilovewp-theme-settings.php:192
+msgid "Full"
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:187
+msgid ""
+"Full color customizations options will allow you to fully customize the look "
+"of your website."
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:192
+msgid ""
+"Full typeface & font customizations options will allow you to fully "
+"customize the look of your website, with free access to 1000+ Google Fonts."
+msgstr ""
+
+#: ilovewp-admin/components/class-nutmeg-blocks-manager.php:42
+#: ilovewp-admin/customizer/sections/general.php:40
+msgid "Full Width"
+msgstr ""
+
+#: ilovewp-admin/customizer/sections/general.php:60
+msgid "General Options"
+msgstr ""
+
+#. %s theme name
+#: ilovewp-admin/admin-notices/ilovewp-notice-welcome.php:61
+#, php-format
+msgid "Get started with %s"
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:120
+msgid "Go to Nutmeg Support Forum"
+msgstr ""
+
+#: ilovewp-admin/customizer/sections/general.php:118
+msgid "Header"
+msgstr ""
+
+#: ilovewp-admin/customizer/sections/general.php:128
+msgid "Header Layout"
+msgstr ""
+
+#: ilovewp-admin/customizer/sections/general.php:39
+#: ilovewp-admin/customizer/sections/general.php:46
+msgid "Hidden"
+msgstr ""
+
+#: ilovewp-admin/customizer/sections/general.php:175
+msgid "Homepage"
+msgstr ""
+
+#. Name of the template
+msgid "Homepage + Posts"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://www.ilovewp.com/"
+msgstr ""
+
+#. URI of the theme
+msgid "https://www.ilovewp.com/themes/nutmeg/"
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:146
+msgid ""
+"If you enjoy using Nutmeg Theme, please leave a review for it on WordPress."
+"org. It helps us continue providing updates and support for it."
+msgstr ""
+
+#. Theme name and link to WordPress.org Support forum for the theme
+#: ilovewp-admin/ilovewp-theme-settings.php:162
+#, php-format
+msgid ""
+"If you like the free version of %1$s Theme, you will love the PLUS version."
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:87
+msgid "ILoveWP.com Logo"
+msgstr ""
+
+#. Author of the theme
+msgid "ilovewpcom"
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:200
+msgid "Import the demo content for an easier start with the theme."
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:195
+msgid "Individual Layout Settings"
+msgstr ""
+
+#: ilovewp-admin/components/class-nutmeg-blocks-manager.php:134
+msgid "Ingredients + Instructions"
+msgstr ""
+
+#: ilovewp-admin/components/class-nutmeg-blocks-manager.php:125
+msgid "Ingredients List"
+msgstr ""
+
+#: ilovewp-admin/customizer/sections/general.php:27
+msgid "Landscape"
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:144
+msgid "Leave a Review"
+msgstr ""
+
+#: ilovewp-admin/customizer/sections/general.php:33
+msgid "Left"
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:186
+#: ilovewp-admin/ilovewp-theme-settings.php:221
+msgid "Limited"
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:186
+msgid "Limited color customization options are available."
+msgstr ""
+
+#: ilovewp-admin/customizer/sections/color-scheme.php:42
+msgid "Link"
+msgstr ""
+
+#: ilovewp-admin/customizer/sections/color-scheme.php:53
+msgid "Link on Hover"
+msgstr ""
+
+#: ilovewp-admin/customizer/sections/general.php:234
+#: ilovewp-admin/customizer/sections/general.php:377
+msgid "Link text"
+msgstr ""
+
+#: ilovewp-admin/customizer/sections/general.php:14
+msgid "List - 50/50"
+msgstr ""
+
+#: ilovewp-admin/customizer/sections/general.php:15
+msgid "List - Full Width"
+msgstr ""
+
+#: functions.php:409
+msgid "Logo for "
+msgstr ""
+
+#: template-parts/mobile-menu-toggle.php:4
+#: template-parts/mobile-menu-toggle.php:6
+#: ilovewp-admin/customizer/helpers-defaults.php:73
+#: ilovewp-admin/customizer/helpers-defaults.php:74
+#: ilovewp-admin/customizer/sections/general.php:531
+#: ilovewp-admin/customizer/sections/general.php:542
+msgid "Menu"
+msgstr ""
+
+#: functions.php:123 template-parts/mobile-menu.php:14
+msgid "Mobile Menu"
+msgstr ""
+
+#: functions.php:146
+msgctxt "Name of the large font size in Gutenberg"
+msgid "Large"
+msgstr ""
+
+#: functions.php:152
+msgctxt "Name of the larger font size in Gutenberg"
+msgid "Larger"
+msgstr ""
+
+#: functions.php:158
+msgctxt "Name of the larger font size in Gutenberg"
+msgid "Largest"
+msgstr ""
+
+#: functions.php:140
+msgctxt "Name of the regular font size in Gutenberg"
+msgid "Regular"
+msgstr ""
+
+#: functions.php:134
+msgctxt "Name of the small font size in Gutenberg"
+msgid "Small"
+msgstr ""
+
+#: ilovewp-admin/customizer/sections/color-scheme.php:119
+msgid "Neutral - Dark"
+msgstr ""
+
+#: ilovewp-admin/customizer/sections/color-scheme.php:108
+msgid "Neutral - Light"
+msgstr ""
+
+#: comments.php:57 comments.php:78
+msgid "Newer Comments"
+msgstr ""
+
+#: index.php:8 page-templates/homepage.php:21
+#: ilovewp-admin/customizer/helpers-defaults.php:70
+#: ilovewp-admin/customizer/sections/general.php:183
+msgid "Newest Recipes"
+msgstr ""
+
+#: ilovewp-admin/helper-functions.php:173
+msgid "Next Post"
+msgstr ""
+
+#: ilovewp-admin/customizer/helpers.php:252
+msgid "No preset found."
+msgstr ""
+
+#: ilovewp-admin/customizer/sections/general.php:35
+msgid "No Sidebar"
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:191
+#: ilovewp-admin/customizer/helpers.php:141
+#: ilovewp-admin/customizer/helpers.php:191
+msgid "None"
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:226
+msgid "Nonpriority"
+msgstr ""
+
+#: ilovewp-admin/customizer/sections/general.php:210
+msgid "Number of Posts"
+msgstr ""
+
+#: ilovewp-admin/widgets/posts-section.php:168
+msgid "Number of posts to display"
+msgstr ""
+
+#: ilovewp-admin/customizer/sections/general.php:503
+msgid "Number of Widgetized Columns in Footer"
+msgstr ""
+
+#. Name of the theme
+#: ilovewp-admin/ilovewp-theme-settings.php:171
+#: ilovewp-admin/admin-notices/ilovewp-notice-review.php:54
+#: ilovewp-admin/admin-notices/ilovewp-notice-upgrade.php:56
+#: ilovewp-admin/components/class-nutmeg-blocks-manager.php:99
+msgid "Nutmeg"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Nutmeg is a free WordPress theme for food blogs and food recipe websites. It "
+"is mobile friendly (responsive) and easy to use. Nutmeg was built for the "
+"WordPress Block Editor (Gutenberg) and includes several custom Block "
+"Patterns. This is one of the reasons why it does not require plugins like "
+"Elementor, Visual Composer, Beaver Builder or any other page building "
+"plugins. It is compatible with popular WordPress recipe plugins like WP "
+"Recipe Maker, Recipe Card Blocks, Delicious Recipes, etc. Thanks to its "
+"small size and fast loading speeds, Nutmeg can easily achieve high scores in "
+"Google's Web Vitals pagespeed tests. Inspired by popular themes like Foodie "
+"Pro, Soledad, Sitka, Rosemary, Foodica and Yummy Recipe, Nutmeg aims to "
+"become a worthy alternative. It can be easily used on WordPress websites "
+"about other topics too, such as travel, lifestyle, beauty, fashion, product "
+"reviews, etc. Theme details &amp; demo here: https://www.ilovewp."
+"com/themes/nutmeg/. Theme support here: https://wordpress."
+"org/support/theme/nutmeg/."
+msgstr ""
+
+#: header.php:22 ilovewp-admin/customizer/helpers-defaults.php:69
+#: ilovewp-admin/customizer/sections/general.php:150
+msgid "Nutmeg is a powerful WordPress theme."
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:84
+msgid "Nutmeg Overview Video"
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:172
+msgid "Nutmeg Plus"
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:164
+msgid ""
+"Nutmeg Plus contains many additional features and customization options. It "
+"also comes with priority one-on-one support."
+msgstr ""
+
+#: ilovewp-admin/customizer/customizer.php:377
+msgid ""
+"Nutmeg Plus contains many improvements and features that were suggested by "
+"the users of the free Nutmeg theme."
+msgstr ""
+
+#: ilovewp-admin/admin-notices/ilovewp-notice-upgrade.php:75
+msgid "Nutmeg Plus Details"
+msgstr ""
+
+#: ilovewp-admin/admin-notices/ilovewp-notice-welcome.php:49
+msgid "Nutmeg Plus Screenshot"
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:52
+msgid "Nutmeg Theme"
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:72
+msgid "Nutmeg Theme Screenshot"
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:103
+msgid "Nutmeg Theme Video Tutorial"
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:99
+msgid "Nutmeg Video"
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:166
+msgid "Nutmeg vs Nutmeg Plus - Video Comparison"
+msgstr ""
+
+#: ilovewp-admin/widgets/posts-section.php:13
+msgid "Nutmeg: Recent Posts"
+msgstr ""
+
+#: ilovewp-admin/customizer/customizer.php:360
+msgid "Official Theme Page"
+msgstr ""
+
+#: comments.php:56 comments.php:77
+msgid "Older Comments"
+msgstr ""
+
+#: ilovewp-admin/customizer/sections/general.php:534
+msgid "Open menu button label"
+msgstr ""
+
+#: ilovewp-admin/components/class-nutmeg-blocks-manager.php:107
+msgid "Opening Message"
+msgstr ""
+
+#: ilovewp-admin/components/class-nutmeg-blocks-manager.php:62
+msgid "Ordered List - Alternative"
+msgstr ""
+
+#. Name of the template
+msgid "Page Builder"
+msgstr ""
+
+#: ilovewp-admin/helper-functions.php:106
+msgid "Pages"
+msgstr ""
+
+#: ilovewp-admin/customizer/sections/color-scheme.php:86
+msgid "Pattern Background"
+msgstr ""
+
+#: functions.php:432
+msgid "Pingback:"
+msgstr ""
+
+#: ilovewp-admin/customizer/sections/general.php:29
+msgid "Portrait"
+msgstr ""
+
+#: ilovewp-admin/customizer/sections/general.php:244
+msgid "Post Archives"
+msgstr ""
+
+#: ilovewp-admin/customizer/sections/general.php:254
+msgid "Post Archives Layout"
+msgstr ""
+
+#: ilovewp-admin/customizer/sections/general.php:267
+msgid "Post Archives Style"
+msgstr ""
+
+#: ilovewp-admin/widgets/posts-section.php:193
+msgid "Post Thumbnail"
+msgstr ""
+
+#: ilovewp-admin/customizer/sections/general.php:292
+msgid "Post Thumbnail Size"
+msgstr ""
+
+#: ilovewp-admin/customizer/sections/general.php:197
+msgid "Posts Category"
+msgstr ""
+
+#: ilovewp-admin/widgets/posts-section.php:181
+msgid "Posts Format"
+msgstr ""
+
+#: footer.php:49
+msgid "Powered by"
+msgstr ""
+
+#: ilovewp-admin/helper-functions.php:155
+msgid "Previous Post"
+msgstr ""
+
+#: ilovewp-admin/customizer/sections/color-scheme.php:64
+msgid "Primary Accent"
+msgstr ""
+
+#: ilovewp-admin/customizer/sections/color-scheme.php:75
+msgid "Primary Accent - Complementary"
+msgstr ""
+
+#: template-parts/header-1.php:13 template-parts/header-3.php:16
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:126
+msgid "Primary Menu (Left) - Header Layout Version 2"
+msgstr ""
+
+#: functions.php:127
+msgid "Primary Menu (Right) - Header Layout Version 2"
+msgstr ""
+
+#: functions.php:122
+msgid "Primary Menu - Header Layout Version 1"
+msgstr ""
+
+#: template-parts/header-2.php:6
+msgid "Primary Menu - Left Side"
+msgstr ""
+
+#: template-parts/header-2.php:31
+msgid "Primary Menu - Right Side"
+msgstr ""
+
+#: ilovewp-admin/customizer/sections/color-scheme.php:20
+msgid "Primary Text"
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:227
+msgid "Priority Support"
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:227
+msgid "Quick and friendly support is available via email and Skype."
+msgstr ""
+
+#: ilovewp-admin/customizer/sections/color-scheme.php:9
+msgid "Quick Styling"
+msgstr ""
+
+#: ilovewp-admin/customizer/customizer.php:372
+msgid "Rate Nutmeg"
+msgstr ""
+
+#: ilovewp-admin/widgets/posts-section.php:132
+msgid "Recent Posts"
+msgstr ""
+
+#: ilovewp-admin/customizer/sections/general.php:186
+msgid "Recent Posts section title on the homepage"
+msgstr ""
+
+#: ilovewp-admin/components/class-nutmeg-blocks-manager.php:152
+msgid "Recipe info"
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:117
+msgid "Response time can be slower outside of these hours."
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:180
+msgid "Responsive Layout"
+msgstr ""
+
+#: ilovewp-admin/customizer/sections/general.php:34
+msgid "Right"
+msgstr ""
+
+#: search.php:10
+msgid "Search Results for"
+msgstr ""
+
+#: functions.php:124 header.php:34
+msgid "Secondary Menu"
+msgstr ""
+
+#: ilovewp-admin/customizer/sections/color-scheme.php:31
+msgid "Secondary Text"
+msgstr ""
+
+#: ilovewp-admin/components/class-nutmeg-blocks-manager.php:161
+msgid "Section Intro"
+msgstr ""
+
+#: ilovewp-admin/components/class-nutmeg-blocks-manager.php:170
+msgid "Section Intro (60% Width)"
+msgstr ""
+
+#: functions.php:147
+msgctxt "Short name of the large font size in the Gutenberg editor."
+msgid "L"
+msgstr ""
+
+#: functions.php:153
+msgctxt "Short name of the larger font size in the Gutenberg editor."
+msgid "XL"
+msgstr ""
+
+#: functions.php:159
+msgctxt "Short name of the larger font size in the Gutenberg editor."
+msgid "XXL"
+msgstr ""
+
+#: functions.php:141
+msgctxt "Short name of the regular font size in the Gutenberg editor."
+msgid "M"
+msgstr ""
+
+#: functions.php:135
+msgctxt "Short name of the small font size in the Gutenberg editor."
+msgid "S"
+msgstr ""
+
+#: ilovewp-admin/helper-functions.php:630
+msgid "Show sub menu"
+msgstr ""
+
+#: ilovewp-admin/sidebars.php:9
+msgid "Sidebar: Primary"
+msgstr ""
+
+#: ilovewp-admin/customizer/sections/general.php:387
+msgid "Single Posts"
+msgstr ""
+
+#: ilovewp-admin/customizer/sections/background.php:10
+msgid "Site Background"
+msgstr ""
+
+#: header.php:18
+msgid "Skip to content"
+msgstr ""
+
+#: ilovewp-admin/customizer/sections/general.php:176
+msgid ""
+"Some of these settings will be used only when the homepage is set to display "
+"a static page, and that page is set to use the Homepage custom page template."
+msgstr ""
+
+#: ilovewp-admin/customizer/sections/general.php:28
+msgid "Square"
+msgstr ""
+
+#: ilovewp-admin/customizer/sections/general.php:22
+msgid "Standard"
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:135
+msgid "Subscribe"
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:127
+msgid "Subscribe to our newsletter"
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:225
+msgid "Support"
+msgstr ""
+
+#. Theme name and link to WordPress.org Support forum for the theme
+#: ilovewp-admin/ilovewp-theme-settings.php:115
+#, php-format
+msgid ""
+"Support for %1$s Theme is provided in the official WordPress.org community "
+"support forums. "
+msgstr ""
+
+#: ilovewp-admin/customizer/customizer.php:368
+msgid "Support Forum"
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:226
+msgid "Support is provided in the WordPress.org community forums."
+msgstr ""
+
+#: ilovewp-admin/helper-functions.php:126
+msgid "Tagged with"
+msgstr ""
+
+#: ilovewp-admin/customizer/sections/general.php:153
+msgid "Text in the header above the logo"
+msgstr ""
+
+#: ilovewp-admin/customizer/sections/general.php:524
+msgid "Text Labels"
+msgstr ""
+
+#: ilovewp-admin/admin-notices/ilovewp-notice-welcome.php:52
+msgid "Thank you for choosing Nutmeg Theme!"
+msgstr ""
+
+#: ilovewp-admin/customizer/sections/general.php:211
+msgid "The amount of posts to display on the homepage."
+msgstr ""
+
+#: ilovewp-admin/sidebars.php:31
+msgid ""
+"The first column of the widgetized grid. You can enable/disable these 5 "
+"columns on the Customize page, in the Theme Settings > Footer panel."
+msgstr ""
+
+#: ilovewp-admin/widgets/posts-section.php:47
+msgid ""
+"The Nutmeg: Recent Posts widget cannot be displayed in this widgetized area."
+msgstr ""
+
+#: ilovewp-admin/sidebars.php:41
+msgid "The second column of the widgetized grid."
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:221
+msgid "The theme will be updated to fix potential bugs and serious issues."
+msgstr ""
+
+#: ilovewp-admin/sidebars.php:51
+msgid "The third column of the widgetized grid."
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:117
+msgid ""
+"The usual response time is less than 45 minutes during regular work hours, "
+"Monday through Friday, 9:00am - 6:00pm (GMT+01:00)."
+msgstr ""
+
+#: ilovewp-admin/customizer/customizer.php:231
+msgid "Theme Colors"
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:83
+msgid "Theme Demo"
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:82
+msgid "Theme Details"
+msgstr ""
+
+#: ilovewp-admin/customizer/customizer.php:364
+msgid "Theme Documentation"
+msgstr ""
+
+#: ilovewp-admin/admin-notices/ilovewp-notice-review.php:75
+msgid "Theme Help"
+msgstr ""
+
+#: ilovewp-admin/customizer/customizer.php:388
+msgid "Theme Help & Support"
+msgstr ""
+
+#: ilovewp-admin/customizer/customizer.php:230
+msgid "Theme Settings"
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:205
+msgid "Theme Style Templates"
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:220
+msgid "Theme Updates"
+msgstr ""
+
+#: ilovewp-admin/sidebars.php:21
+msgid ""
+"These widgets will appear at the beginning of the website footer. This area "
+"is unstyled and has no padding and no margin."
+msgstr ""
+
+#: ilovewp-admin/sidebars.php:11
+msgid ""
+"This is the main sidebar that will appear to the left or to the right of the "
+"content on a page."
+msgstr ""
+
+#: ilovewp-admin/customizer/sections/general.php:71
+msgid "This setting can be manually overwritten on specific pages and posts."
+msgstr ""
+
+#: ilovewp-admin/customizer/sections/general.php:471
+msgid "This will display information about the author at the end of the post."
+msgstr ""
+
+#: ilovewp-admin/customizer/sections/general.php:459
+msgid "This will display post thumbnails in the Post Navigation section."
+msgstr ""
+
+#: ilovewp-admin/customizer/sections/general.php:342
+msgid "This will display the author of a post."
+msgstr ""
+
+#: ilovewp-admin/customizer/sections/general.php:318
+msgid "This will display the category/categories of a post on archive pages."
+msgstr ""
+
+#: ilovewp-admin/customizer/sections/general.php:423
+msgid "This will display the category/categories."
+msgstr ""
+
+#: ilovewp-admin/customizer/sections/general.php:330
+msgid "This will display the excerpt of a post on archive pages."
+msgstr ""
+
+#: ilovewp-admin/customizer/sections/general.php:281
+msgid "This will display the featured image of a post on archive pages."
+msgstr ""
+
+#: ilovewp-admin/customizer/sections/general.php:447
+msgid "This will display the older/newer links after the post content."
+msgstr ""
+
+#: ilovewp-admin/customizer/sections/general.php:354
+msgid "This will display the post date below the author name."
+msgstr ""
+
+#: ilovewp-admin/customizer/sections/general.php:435
+msgid "This will display the post tags."
+msgstr ""
+
+#: ilovewp-admin/customizer/sections/general.php:306
+msgid "This will display the published date of a post on archive pages."
+msgstr ""
+
+#: ilovewp-admin/customizer/sections/general.php:411
+msgid "This will display the published date."
+msgstr ""
+
+#: ilovewp-admin/customizer/sections/general.php:483
+msgid "This will display the social media links from an author's profile."
+msgstr ""
+
+#: ilovewp-admin/customizer/sections/general.php:366
+msgid "This will display the View Recipe link under the excerpt of a post."
+msgstr ""
+
+#: loop-homepage.php:60 loop.php:51 ilovewp-admin/widgets/posts-section.php:79
+msgid "Thumbnail for "
+msgstr ""
+
+#. %1$s: theme name, %2$s link
+#: ilovewp-admin/admin-notices/ilovewp-notice-welcome.php:56
+#, php-format
+msgid ""
+"To take advantage of everything that this theme can offer, please take a "
+"look at the <a href=\"%2$s\">Get Started with %1$s</a> page."
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:175
+msgid "Unlimited theme usage"
+msgstr ""
+
+#: ilovewp-admin/components/class-nutmeg-blocks-manager.php:66
+msgid "Unordered List - Table"
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:158
+#: ilovewp-admin/ilovewp-theme-settings.php:166
+#: ilovewp-admin/ilovewp-theme-settings.php:230
+#: ilovewp-admin/customizer/customizer.php:376
+msgid "Upgrade to Nutmeg Plus"
+msgstr ""
+
+#: ilovewp-admin/customizer/sections/general.php:8
+msgid "Version 1"
+msgstr ""
+
+#: ilovewp-admin/customizer/sections/general.php:9
+msgid "Version 2"
+msgstr ""
+
+#: ilovewp-admin/customizer/sections/general.php:10
+msgid "Version 3"
+msgstr ""
+
+#: loop-homepage.php:89 ilovewp-admin/customizer/helpers-defaults.php:72
+#: ilovewp-admin/customizer/sections/general.php:230
+msgid "View More Recipes"
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:120
+msgid "View Nutmeg Documentation"
+msgstr ""
+
+#: ilovewp-admin/customizer/customizer.php:378
+msgid "View Nutmeg Plus"
+msgstr ""
+
+#: ilovewp-admin/helper-functions.php:62
+#: ilovewp-admin/customizer/helpers-defaults.php:71
+#: ilovewp-admin/customizer/sections/general.php:373
+msgid "View Recipe"
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:130
+msgid ""
+"We send out the newsletter once every few weeks. It contains information "
+"about our new themes and important theme updates."
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:137
+msgid ""
+"We use Mailchimp as our marketing platform. By clicking above to subscribe, "
+"you acknowledge that your information will be transferred to Mailchimp for "
+"processing."
+msgstr ""
+
+#: ilovewp-admin/widgets/posts-section.php:143
+#: ilovewp-admin/customizer/sections/color-scheme.php:130
+msgid "Widget Title"
+msgstr ""
+
+#: ilovewp-admin/customizer/sections/color-scheme.php:141
+msgid "Widget Title Accent"
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:215
+msgid "Widgetized Areas"
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:148
+msgid "Write a Review for Nutmeg"
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:175
+msgid ""
+"You can use the theme on any number of websites for as long as you wish."
+msgstr ""
+
+#: functions.php:456
+msgid "Your comment is awaiting moderation."
+msgstr ""

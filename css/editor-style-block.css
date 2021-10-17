@@ -1,0 +1,509 @@
+:root {
+	/* Typography */
+	--nutmeg-ff-primary: 'Newsreader', -apple-system, BlinkMacSystemFont, Georgia, serif;
+	--nutmeg-ff-accent: 'Montserrat', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, sans-serif;
+	--nutmeg-headings-weight: 600;
+	/* Colors */
+	--nutmeg-background-color: #ffffff;
+	--nutmeg-pattern-background-color: #fbf5e5;
+	--nutmeg-footer-background-color: #f5f4f2;
+	--nutmeg-primary-text-color: #080808;
+	--nutmeg-secondary-text-color: #585858;
+	--nutmeg-link-color: #007777;
+	--nutmeg-link-color-hover: #b53700;
+	--nutmeg-primary-accent-color: #028080;
+	--nutmeg-primary-accent-complementary-color: #ffffff;
+	--nutmeg-neutral-color-100: #ffffff;
+	--nutmeg-neutral-color-900: #080808;
+	--nutmeg-border-color-100: rgba(255,255,255,0.1);
+	--nutmeg-border-color-900: rgba(0,0,0,0.1);
+}
+
+/* ------------------------------------------- */
+/*	Editor Styles — Block Editor
+/* ------------------------------------------- */
+
+.editor-styles-wrapper ::selection {
+	background: var( --nutmeg-primary-accent-color );
+	color: var( --nutmeg-neutral-color-100 );
+}
+
+:root .editor-styles-wrapper {
+	background-color: var( --nutmeg-background-color );
+	color: var( --nutmeg-primary-text-color );
+	font-size:  1.125rem;
+	font-family: var( --nutmeg-ff-primary );
+	line-height: 1.7;
+	margin: 0;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.editor-styles-wrapper a {
+	color: var( --nutmeg-link-color );
+	text-decoration: underline;
+	transition: all 0.15s ease-in-out;
+}
+
+.editor-styles-wrapper a:hover, .editor-styles-wrapper a:focus {
+	color: var( --nutmeg-link-color-hover );
+}
+
+.editor-styles-wrapper a:focus {
+	outline: 2px solid var( --nutmeg-secondary-accent-color );
+	outline-offset: 2px;
+	text-decoration: underline;
+}
+
+.wp-block {
+	max-width: 850px;
+}
+
+.wp-block-separator:not(.is-style-wide):not(.is-style-dots) {
+	max-width: 200px;
+}
+
+/* Headings */
+.editor-styles-wrapper h1, 
+.editor-styles-wrapper h2, 
+.editor-styles-wrapper h3, 
+.editor-styles-wrapper h4, 
+.editor-styles-wrapper h5, 
+.editor-styles-wrapper h6 {
+	color: var( --nutmeg-primary-text-color );
+	font-family: var( --nutmeg-ff-primary );
+	font-weight: 600;
+	line-height: 1.3;
+	margin: 0;
+}
+
+/* ILOVEWP Block Patterns */
+
+/* Font Sizes -------------------------------- */
+
+:root .has-small-font-size { font-size: 1rem; }
+:root .has-regular-font-size, :root .has-normal-font-size { font-size: 1.125rem; }
+:root .has-large-font-size { font-size: 1.375rem; line-height: 1.5; }
+:root .has-larger-font-size { font-size: 1.625rem; line-height: 1.4; }
+:root .has-largest-font-size { font-size: 2.25rem; line-height: 1.3; }
+
+/* Editor Color Palette -------------------------------- */
+
+:root .has-primary-text-color { color: var( --nutmeg-primary-text-color ); }
+:root .has-secondary-text-color { color: var( --nutmeg-secondary-text-color ); }
+:root .has-link-color { color: var( --nutmeg-link-color ); }
+:root .has-link-hover-color { color: var( --nutmeg-link-color-hover ); }
+:root .has-primary-accent-color { color: var( --nutmeg-primary-accent-color ); }
+:root .has-primary-accent-complementary-color { color: var( --nutmeg-primary-accent-complementary-color ); }
+:root .has-pattern-background-color { color: var( --nutmeg-pattern-background-color ); }
+:root .has-footer-background-color { color: var( --nutmeg-footer-background-color ); }
+:root .has-neutral-100-color { color: var( --nutmeg-neutral-color-100 ); }
+:root .has-neutral-900-color { color: var( --nutmeg-neutral-color-900 ); }
+
+:root .has-primary-text-background-color { background-color: var( --nutmeg-primary-text-color ); }
+:root .has-secondary-text-background-color { background-color: var( --nutmeg-secondary-text-color ); }
+:root .has-link-background-color { background-color: var( --nutmeg-link-color ); }
+:root .has-link-hover-background-color { background-color: var( --nutmeg-link-color-hover ); }
+:root .has-primary-accent-background-color { background-color: var( --nutmeg-primary-accent-color ); }
+:root .has-primary-accent-complementary-background-color { background-color: var( --nutmeg-primary-accent-complementary-color ); }
+:root .has-pattern-background-background-color { background-color: var( --nutmeg-pattern-background-color ); }
+:root .has-footer-background-background-color { background-color: var( --nutmeg-footer-background-color ); }
+:root .has-neutral-100-background-color { background-color: var( --nutmeg-neutral-color-100 ); }
+:root .has-neutral-900-background-color { background-color: var( --nutmeg-neutral-color-900 ); }
+
+/* Block Typography Classes ------------------ */
+
+:root .has-text-align-left { text-align: left; }
+:root .has-text-align-center { text-align: center; }
+:root .has-text-align-right { text-align: right; }
+:root .has-text-align-justify { text-align: justify; }
+
+/* Content Columns -------------------------------- */
+
+:root .is-style-column-count--2,
+:root .is-style-column-count--3 {
+	column-gap: 40px;
+	column-rule: 1px solid var( --nutmeg-primary-text-color );
+	list-style-type: none;
+}
+:root .is-style-column-count--2 { column-count: 2; }
+:root .is-style-column-count--3 { column-count: 3; }
+:root .is-style-column-count--4 { column-count: 4; }
+:root .is-style-column-count--5 { column-count: 5; }
+:root .is-style-column-count--6 { column-count: 6; }
+
+:root ol.is-style-numbers-special {
+	counter-reset: li;
+}
+
+:root ol.is-style-numbers-special > li {
+	border-left: solid 1px var( --nutmeg-primary-text-color );
+	list-style-type: none;
+	margin: 0 0 1.25rem 1.875rem;
+	padding: 0 0 0 1.25rem;
+	position: relative;
+	transition: border-color 0.2s ease-in-out;
+}
+
+:root ol.is-style-numbers-special > li:hover {
+	border-color: var( --nutmeg-link-color-hover ); 
+}
+
+:root ol.is-style-numbers-special > li:last-of-type {
+	margin-bottom: 0;
+}
+
+:root ol.is-style-numbers-special > li:before {
+	content: counter(li);
+	counter-increment: li;
+	font-family: var( --nutmeg-ff-accent );
+	font-size: 1.125rem;
+	font-weight: 600;
+	letter-spacing: 0.2px;
+	padding: 0;
+	text-align: right;
+	position: absolute;
+	top: 0px;
+	left: -1.875rem;
+}
+
+:root .is-style-table {
+	border: solid 1px var( --nutmeg-primary-text-color );
+	font-size: 1rem;
+	list-style: none;
+	margin: 1.875rem auto;
+	vertical-align: middle;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	align-items: stretch;
+	align-content: stretch;
+}
+
+:root .is-style-table > li {
+	align-self: auto;
+	flex: 1 1 100%;
+	list-style: none;
+	margin: 1rem 0;
+	padding: 0 1.25rem;
+	position: relative;
+	text-align: center;
+}
+
+:root .is-style-table > li:not(:last-of-type):after {
+	content: " ";
+	display: block;
+	position: absolute;
+	width: 1px;
+	background: #aaa;
+	top: .25rem;
+	bottom: .25rem;
+	right: 0;
+}
+
+/* Alignment -------------------------------- */
+
+:root .nutmeg-align-left { text-align: left; }
+:root .nutmeg-align-center, :root .is-style-center-aligned { margin-right: auto; margin-left: auto; text-align: center; }
+:root .nutmeg-align-right, :root .is-style-right-aligned { text-align: right; }
+
+/* Max Width -------------------------------- */
+:root .nutmeg-max-width-25 { max-width: 25%; }
+:root .nutmeg-max-width-30 { max-width: 30%; }
+:root .nutmeg-max-width-40 { max-width: 40%; }
+:root .nutmeg-max-width-50 { max-width: 50%; }
+:root .nutmeg-max-width-60 { max-width: 60%; }
+:root .nutmeg-max-width-70 { max-width: 70%; }
+:root .nutmeg-max-width-75 { max-width: 75%; }
+:root .nutmeg-max-width-80 { max-width: 80%; }
+:root .nutmeg-max-width-90 { max-width: 90%; }
+:root .nutmeg-max-width-100 { max-width: 100%; }
+
+:root .wp-block-columns .wp-block-image > img {
+	display: block;
+}
+
+/* ------------------------------------------- */
+/*	Editor Styles — Block Patterns
+/* ------------------------------------------- */
+
+.nutmeg-pattern {
+	clear: both;
+}
+
+.nutmeg-pattern + .nutmeg-pattern,
+.wp-block-columns + .wp-block-columns,
+.wp-block-columns + .nutmeg-pattern,
+.nutmeg-pattern + .wp-block-columns,
+p + .wp-block-group,
+p + .wp-block-columns {
+	margin-top: 2.5rem;
+}
+
+.nutmeg-pattern img {
+	display: block;
+}
+
+.section-title,
+.section-title {
+	font-size: 2rem;
+	font-weight: 600;
+	line-height: 1.3;
+}
+
+.section-title:not(:last-child) {
+	margin-bottom: 1.875rem;
+}
+
+.pattern-title,
+.pattern-title {
+	font-size: 1.5rem;
+	font-weight: 600;
+	line-height: 1.4;
+}
+
+.pattern-title:not(:last-child) {
+	margin-bottom: 1.875rem;
+}
+
+.nutmeg-pattern .wp-block-group__inner-container > *:first-child {
+	margin-top: 0;
+}
+
+.wp-block-columns > .wp-block-column {
+	flex-basis: calc(50% - 1.25rem);
+}
+
+.wp-block-columns > .wp-block-column:not(:first-child) {
+	margin-left: 2.5rem;
+}
+
+ol.is-style-numbers-special {
+	counter-reset: li;
+}
+
+ol.is-style-numbers-special > li:last-of-type {
+	margin-bottom: 0;
+}
+
+ol.is-style-numbers-special > li:before {
+	content: counter(li);
+	counter-increment: li;
+	font-family: var( --nutmeg-ff-accent );
+	font-size: 1.125rem;
+	font-weight: 600;
+	letter-spacing: 0.2px;
+	padding: 0;
+	text-align: right;
+	position: absolute;
+	top: 0px;
+	left: -1.875rem;
+}
+
+.is-style-table {
+	border: solid 1px var( --nutmeg-primary-text-color );
+	font-size: 1rem;
+	list-style: none;
+	margin: 1.875rem 0;
+	vertical-align: middle;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	align-items: stretch;
+	align-content: stretch;
+}
+
+.is-style-table > li {
+	align-self: auto;
+	flex: 1 1 100%;
+	list-style: none;
+	margin: 0;
+	padding: 1rem 1.25rem;
+	position: relative;
+	text-align: center;
+}
+
+.is-style-table > li:not(:last-of-type):after {
+	content: " ";
+	display: block;
+	position: absolute;
+	width: 1px;
+	background: var( --nutmeg-primary-text-color );
+	top: .25rem;
+	bottom: .25rem;
+	right: 0;
+}
+
+/* Section Intro -------------------------------- */
+
+.nutmeg-pattern-section-intro {
+
+}
+
+/* Section Intro -------------------------------- */
+
+.nutmeg-pattern-opening-message {
+	background-color: var( --nutmeg-primary-accent-color );
+	color: var( --nutmeg-neutral-color-100 );
+	font-size: 1.125rem;
+	line-height: 1.6;
+	padding: 2.5rem;
+	outline: solid 1px var( --nutmeg-neutral-color-100 );
+	outline-offset: -0.5rem;
+}
+
+.nutmeg-pattern-opening-message a {
+	color: inherit;
+}
+
+.nutmeg-pattern-opening-message .section-title {
+	color: var( --nutmeg-neutral-color-100 );
+	font-weight: 600;
+	margin-bottom: 0;
+}
+
+/* Featured Pages -------------------------------- */
+
+.nutmeg-pattern-featured-pages {
+
+}
+
+.nutmeg-pattern-featured-pages .wp-block-columns {
+	margin-bottom: 0;
+}
+
+.nutmeg-pattern-featured-pages .wp-block-column > *:last-child {
+	margin-bottom: 0;
+}
+
+.nutmeg-pattern-featured-pages .wp-block-column {
+	flex-direction: column;
+}
+
+.nutmeg-pattern-featured-pages .wp-block-column:not(:first-child) {
+	margin-left: 2.5rem;
+}
+
+.nutmeg-pattern-featured-pages--standard .entry-title {
+	font-size: 1.125rem;
+	font-weight: 500;
+	margin-top: 0;
+	text-align: center;
+}
+
+.nutmeg-pattern-featured-pages--standard .entry-title a {
+	background-color: var( --nutmeg-primary-accent-color );
+	color: var( --nutmeg-neutral-color-100 );
+	display: block;
+	padding: 1rem 1.25rem;
+	text-align: center;
+}
+
+.nutmeg-pattern-featured-pages--standard .entry-title a:hover,
+.nutmeg-pattern-featured-pages--standard .entry-title a:focus {
+	background-color: var( --nutmeg-primary-text-color );
+	color: var( --nutmeg-neutral-color-100 );
+}
+
+/* Cover Intro -------------------------------- */
+
+.nutmeg-pattern-cover-intro {
+	margin-bottom: 1.875rem;
+	padding: 2.5rem;
+}
+
+.nutmeg-pattern-cover-intro h2:first-child {
+	margin-top: 0;
+}
+
+.nutmeg-pattern-cover-intro .wp-block-cover__inner-container {
+	background-color: #fff;
+	color: var( --nutmeg-primary-text-color );
+	font-size: 1.125rem;
+	line-height: 1.6;
+	margin-right: auto;
+	margin-left: 0;
+	max-width: 50%;
+	outline: solid 1px var( --nutmeg-border-color-900 );
+	outline-offset: -1px;
+	padding: 1.875rem;
+}
+
+.nutmeg-pattern-cover-intro .wp-block-group > .wp-block-group__inner-container > *:not(:first-child) {
+	margin-top: 1.25rem;
+}
+
+.nutmeg-pattern-cover-intro.is-style-center-aligned .wp-block-cover__inner-container {
+	margin-right: auto;
+	margin-left: auto;
+	text-align: left;
+}
+
+.nutmeg-pattern-cover-intro.is-style-left-aligned .wp-block-cover__inner-container {
+	margin-right: auto;
+	margin-left: 0;
+}
+
+.nutmeg-pattern-cover-intro.is-style-right-aligned .wp-block-cover__inner-container {
+	margin-right: 0;
+	margin-left: auto;
+	text-align: left;
+}
+
+.nutmeg-pattern-cover-intro.is-style-full-width .wp-block-cover__inner-container {
+	max-width: unset;
+}
+
+.nutmeg-pattern-cover-intro form label {
+	text-align: left;
+}
+
+.nutmeg-pattern-cover-intro form input[type="submit"] {
+	display: block;
+	width: 100%;
+}
+
+/* Ingredients -------------------------------- */
+
+.nutmeg-pattern-ingredients {
+	background-color: var( --nutmeg-pattern-background-color );
+	color: var( --nutmeg-primary-text-color );
+	padding: 2.5rem;
+}
+
+/*	X.	Media Queries
+/* ------------------------------------------- */
+
+
+@media ( min-width: 480px ) {
+
+
+}
+
+@media ( min-width: 600px ) {
+
+
+}
+
+@media ( min-width: 700px ) {
+
+
+}
+
+@media ( min-width: 1000px ) {
+
+
+}
+
+
+@media ( min-width: 1220px ) {
+
+
+}
+
+
+@media ( min-width: 1360px ) {
+
+
+
+}
